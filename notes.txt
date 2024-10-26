@@ -1,0 +1,5 @@
+- loade fra json config fil.
+- SQL kald (logik her?)
+- python logik? 
+- klassificering? 
+- 
