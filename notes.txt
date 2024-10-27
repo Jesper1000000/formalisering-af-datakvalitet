@@ -2,4 +2,3 @@
 - SQL kald (logik her?)
 - python logik? 
 - klassificering? 
-- 

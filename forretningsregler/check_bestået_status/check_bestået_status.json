@@ -1,10 +1,10 @@
 {
     "database": "/Users/jesper/Desktop/EAAA/Semester 7/Bachelor Opgave/PoC/database/Database.db",
-    "table": "studerende",
+    "tabel": "studerende",
     "kolonner": {
         "værdier" : {
             "kolonne_værdi_1": "nuværende_ects",
-            "kolonne_værdi_2": "ects_i_alt"
+            "kolonne_værdi_2": "ects"
         },
         "påvirket_kolonne": "bestået" 
     },
