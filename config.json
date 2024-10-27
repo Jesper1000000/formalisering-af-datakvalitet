@@ -1,5 +1,5 @@
 {
-    "db_path": "/Users/jesper/Desktop/EAAA/Semester 7/Bachelor Opgave/PoC/database/Database.db",
+    "db_path": "database/Database.db",
     "db_table": "studerende",
     "thresshold" : 1
 }

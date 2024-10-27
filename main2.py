@@ -30,7 +30,6 @@ null_amount = df.isnull().sum() + (df == '').sum()
 print('Missing values per column:')
 print(null_amount)
 
-
 # status = hvis thresshold er x
 
 # Loop over columns to check for missing values
