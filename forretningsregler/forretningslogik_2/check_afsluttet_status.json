@@ -1,0 +1,16 @@
+{
+    "database_1": {
+        "path": "/Users/jesper/Desktop/EAAA/Semester 7/Bachelor Opgave/PoC/database/Database.db",
+        "tabel": "studerende",
+        "værdier": "kolonne_værdi"
+    },
+    "database_2": {
+        "path": "/Users/jesper/Desktop/EAAA/Semester 7/Bachelor Opgave/PoC/database/Database.db",
+        "tabel": "studerende",
+        "værdier": "kolonne_værdi"
+    },
+    "regel": {
+        "hvis_værdier_er_ens": "ja",
+        "hvis_værdier_ikke_er_ens": "nej"
+    }
+}

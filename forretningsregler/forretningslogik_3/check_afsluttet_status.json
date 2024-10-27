@@ -1,0 +1,23 @@
+{
+    "validation": {
+        "validate_type": "completeness",
+        "database": "path/to/your/database.db",
+        "table": "your_table_name",
+        "columns": ["field1", "field2", "field3"], 
+        "metadata": {
+            "version": "1.0",
+            "last_updated": "2024-10-27"
+        }  
+    },
+    "evaluation": {
+        "thresholds": {
+            "above": "value or criteria",
+            "below": "value or criteria"
+        },
+        "parameters": {
+            "min_field_value": 0,
+            "max_field_value": 100
+        }
+    }
+    
+}
